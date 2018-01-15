@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "LIRI is a command line node app that takes parameters and give you back data",
+  "main": "liri.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "indent-string": "^3.2.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanbh/liri-node-app.git"
+  },
+  "author": "Tristan Benedict-Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristanbh/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tristanbh/liri-node-app#readme"
+}
