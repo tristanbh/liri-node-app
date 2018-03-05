@@ -22,8 +22,7 @@ Commands that can be used:
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-
-  - `node liri.js movie-this '<movie name here>'`
+`node liri.js movie-this '<movie name here>'`
 
    * This will output the following information to your terminal/bash window:
 
